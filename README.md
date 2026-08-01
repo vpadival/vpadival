@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Vachan Padival
 
-🎓 AIML Undergraduate
-💻 Aspiring Software Engineer & Security Enthusiast
+🎓 AIML Undergraduate <br>
+💻 Aspiring Software Engineer & Security Enthusiast<br>
 🔐 Passionate about Cybersecurity, AI, and Full-Stack Development
 
 ---
