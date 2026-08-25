@@ -43,12 +43,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vpadival&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpadival&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vpadival&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Vachan's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpadival&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vpadival&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=vpadival&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 ---
