@@ -4,6 +4,10 @@
 💻 Aspiring Software Engineer & Security Enthusiast<br>
 🔐 Passionate about Cybersecurity, AI, and Full-Stack Development
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vpadival&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+
 ---
 
 ## 🚀 About Me
@@ -27,7 +31,6 @@
 | 🛠️ Tools | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,kali" /> |
 
 ---
-
 
 ## 🚀 Featured Projects
 
